@@ -1,9 +1,16 @@
-### Hi there 👋
 
+<h1>Hi!  👋 I'm Sebastián Vásquez. </h1>
+<p>I'm an Electrical Engineering student at Universidad de Chile, Chile. At this moment, I'm coursing my sixth year of the carrer focused on Data Science Master courses. Nowadays I'm living in Santiago, but my native city is Osorno.  </p>
+<h2>Some Info 🔎</h2>
+
+- My main interests are relative to
+- I enjoy to play
+- 
 <!--
 **sbstnvsqz0/sbstnvsqz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+- 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
