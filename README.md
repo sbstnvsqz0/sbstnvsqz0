@@ -3,6 +3,13 @@
 <h1 align = "center"> Hi!  👋 I'm Sebastián Vásquez. </h1>
 </div>
 <p>I'm an Electrical Engineering student at Universidad de Chile, Chile. At this moment, I'm coursing my sixth year of the carrer focused on Data Science Master courses. Nowadays I'm living in Santiago, but my native city is Osorno.  </p>
+
+<p align="center">
+<a href="mailto:sebastian.vsqz0@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+
+</p>
 <h2>Some Info 🔎</h2>
 
 - 🔭 My main interests are relative to Data Science and Machine Learning.
